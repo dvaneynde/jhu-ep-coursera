@@ -3,4 +3,4 @@
 ####Johns Hopkins University
 
 <b>Solution Links:</b> <br>
-- [Module 2 Solution](https://github.com/dvaneynde/jhu-ep-coursera/blob/master/solution2/solution2.html) <br>
+- [Module 2 Solution](http://htmlpreview.github.io/?https://github.com/dvaneynde/jhu-ep-coursera/blob/master/solution2/solution2.html) <br>
